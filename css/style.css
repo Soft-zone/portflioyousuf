@@ -1,0 +1,139 @@
+*{
+	font-family: 'Quicksand', sans-serif;
+}
+.img-responsive.img-circle.margin {
+    height: 251px!important;
+    width: 251px!important;
+}
+
+.navbar.navbar-default.full-site {
+    padding-top: 15px!important;
+    padding-bottom: 15px!important;
+}
+.bg-1{
+	background-color:#1ABC9C!important;
+	padding-top: 70px!important;
+    padding-bottom:30px!important;
+	color:white!important;
+	margin-top:-19!important;
+}
+.container-fluid.bg-1.text-center {
+    padding-top: 192px!important;
+}
+.fab, .far {
+    font-weight: 412!important;
+    font-size: 30px!important;
+    padding-left: 14px!important;
+    color: yellow!important;
+}
+
+.header-area h2 span{
+	color:yellow;
+}
+.bg-doom{
+	background-color:#1ABC9C!important;
+	color:white!important;
+	margin-top: -30px!important;
+    padding-bottom:50px!important;
+}
+.main-eara{
+    padding-top: 132px!important;
+    padding-bottom: 110px!important;
+}
+.bar-taype{
+	width:100%!important;
+	height:15px!important;
+}
+.img-rounded {
+    height: 416px!important;
+    float: right!important;
+   
+}
+.darm-rar img{
+	background-color: #6aa770!important;
+	border: 3px solid!important;
+	margin-top: 40px!important;
+	margin-right:60px;
+
+}
+.box-1{
+	height:330px;
+	width:312px;
+	background-color:red;
+}
+
+
+.progress-bar-warning{
+	background-color:#6D33FF!important;
+}
+.top-area{
+	padding-top:10px auto!important;
+	padding-bottom:10px auto!important;
+}
+.my-color12{
+    background-color:#EEEEEE!important;
+    width: 100%!important;
+    height:auto!important;
+}
+.my-portsite{
+	background-color:#EEEEEE;
+}
+.roxy-port{
+    width: 466px!important;
+    height: 276px!important;
+    border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+.rambo-hell{
+	margin:0px auto!important;
+	text-align:center;
+	display:block;
+	
+}
+.mycenter-part{
+    text-align: center;
+    padding-top: 90px!important;
+    padding-bottom: 40px!important;
+}
+.box1{
+    background-color:#1ABC9C;
+    border-radius: 20px;
+    color:#e9f6f3;
+	margin-top:20px;
+	transition:1s;
+}
+.box1:hover{
+	border:3px solid white;
+	opacity:.9;
+}
+.rn-soft{
+    padding-bottom: 29px!important;
+    padding-top: 117px!important;
+}
+.form-control {
+    display: block;
+    width: 77%!important;
+    height: 70px!important;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color:#f8f8f8;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.textpart91{
+	padding-top:50px;
+	padding-bottom:50px;
+	text-align:center;
+	color:white;
+}
+.dengjer-boy{
+	background-color:#1ABC9C!important;
+}
+.footer-all{
+	padding-top:30px!important;
+	padding-bottom:30px!important;
+	background-color:#EEEEEE!important;
+}	
